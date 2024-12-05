@@ -120,7 +120,7 @@ This project demonstrates the use of vector databases to recommend animes based 
 
 Watch the full project creation process on YouTube:
 
-[![Anime Recommendation System Demo](https://img.youtube.com/vi/<video_id>/0.jpg)](https://www.youtube.com/watch?v=<video_id>)
+[![Anime Recommendation System Demo](https://img.youtube.com/vi/XQZEaKFNGrY/0.jpg)](https://www.youtube.com/watch?v=XQZEaKFNGrY)
 
 ---
 
