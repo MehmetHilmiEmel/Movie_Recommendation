@@ -44,8 +44,8 @@ The core idea of this project is to recommend animes by analyzing their descript
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/MehmetHilmiEmel/Movie_Recommendation.git
+cd Movie_Recommendation
 ```
 ### Step 2: Virtual Environment Setup
 #### For macOS/Linux:
